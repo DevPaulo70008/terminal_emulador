@@ -16,7 +16,7 @@ int main()
 		char _addshell_[1000];
 		scanf(_addshell_, 1000, stdin);
 		system("sh", _addshell_);
-        int malloc(_addshell_);
+        int*malloc(_addshell_);
         
 	}
 
