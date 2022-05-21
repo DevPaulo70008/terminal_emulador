@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "*************"
+echo "* ==     == *"
+echo "* @       @ *"
+echo "*     ∆     *-------------->"
+echo "*  -------  *💚TERMINUS------->"
+echo "*           *-------->"
+echo "*************"
+echo "*..*  Π  *..*"
+echo "*  *******  *"
+echo "*  *     *  *"
+echo "*  *     *  *"
+echo "._._.   ._._."
+echo "powere By: 🎯DevPaulo©"
